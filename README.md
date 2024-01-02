@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! 👋
+
+I do programming sometimes.
+
+#### ✅ I’m familar with (at least somewhat)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&label=JavaScript&labelColor=black&color=%23F7DF1E)
+
+#### 🎓 I’m currently learning
+
 
 <!--
 **Yunoxa/Yunoxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
